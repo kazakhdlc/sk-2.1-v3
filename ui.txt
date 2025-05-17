@@ -1,0 +1,70 @@
+AliveCheck:true|Alive Check
+Ammo:true|Unlimited Ammo
+BulletNuke:false|Bullet Nuke
+FastGame:true|Fast Game [Host]
+Nuke:true|Nuke Toggle
+NukeEnemy:true|Enemy Nuke
+NukeMe:true|Self Nuke
+RCS:false|Zero Recoil
+ThirdPerson:true|Set Third-Person View
+aimonshoot:true|Aim on Shoot
+aimvisible:true|Visibility Check ##ra
+air:true|Air-Jump
+antiaimbool:true|Anti-Aim
+antiwinct:true|AntiWin CT
+auto_defuse:true|Auto Defuse
+autowin_ct:true|Autowin CT
+autowin_tr:true|Autowin TR
+bunnyhope:true|Bunny-Hop
+defaim:true|Default Aimbot
+deffov:true|Draw RA FOV
+defuse_anywhere:true|Defuse Anywhere
+dmghack:true|Damager
+dontret:true|Anti-Return
+drawfov:true|Show Silent Aimbot FOV
+enableRandomizeAim:true|Randomizer
+enableSmoothAim:true|Smooth Aim (MAY BE UNSTABLE!)
+enemyscales:true|Modify Enemies Size
+esp3dcorners:true|Show Player Corners [3D]
+esparm:true|Show Player Armor
+espbox:true|Show Player Boxes
+espcapsule:true|Show Player Capsules
+espdist:true|Show Player Distance
+espfill:true|Fill Boxes
+espgradient:true|Filling Gradient
+esphealth:true|Show Player Health
+esphpclinet:true|Client
+esphpgradient:true|Gradient
+espmoney:true|Show Player Money
+espskeleton2:true|Show Player Skeleton
+esptracer:true|Show Player Tracers
+fast_defuse:true|Fast Defuse
+firerate:true|Speedy Fire
+fovFeature:true|Enable Custom FOV
+getbomb:true|Bomber
+getbomb2:true|Sapper
+glowskeleton:true|Glow
+godmoderemade:true|Invincibility (aka GM)
+hitlogs:true|Hit Logger
+host:true|Get Host
+insky:true|Teleport Above the Map
+inv:true|Invisibility
+masskill:true|MassKill
+mescales:true|Modify Own Size
+moveb:true|Disable Movement Limits
+mytrail:true|Enable Player Trail
+nightmode:true|Enable Night Mode
+noclip:false|Noclip
+oofvis:true|Visible Indicator
+outoffov:true|Out of FOV
+plant_anywhere:true|Plant Anywhere
+playerCircle:true|Show Player Circle
+playerscalesmenu:true|Player Sizes
+pline:true|Show Player Lines
+ragdoll:true|Ragdoll
+silentvis:true|Visibility Check
+slaim:true|Activate Silent Aimbot
+speed_hack:true|Speed Changer
+svaston:true|Enable Custom Crosshair
+telekill:true|TeleKill
+underground:true|Teleport Underground
