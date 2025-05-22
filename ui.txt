@@ -5,7 +5,7 @@ FastGame:true|Fast Game [Host]
 Nuke:true|Nuke Toggle
 NukeEnemy:true|Enemy Nuke
 NukeMe:true|Self Nuke
-RCS:false|Zero Recoil
+RCS:true|Zero Recoil
 ThirdPerson:true|Set Third-Person View
 aimonshoot:true|Aim on Shoot
 aimvisible:true|Visibility Check ##ra
